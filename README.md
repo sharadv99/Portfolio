@@ -14,6 +14,7 @@ Projects
 *Click project name for code, reports, and presentations.*
 
 Project | Brief Description
+--- | ---
 
 [Opioid Misuse Risk Tool](https://github.com/sharadv99/capstone-OpioidAddictionRisk) | Developed and productized an interpretable machine learning model that helps doctors determine patients' individual risk of misusing opioids (https://opioidmisuserisk.github.io/)
 [Multi-Label Movie Genre Classification](https://github.com/sharadv99/w266-Multi-Label-Genre-Classification) | Designed custom sampling methods and an ensemble of innovative attention neural networks to predict genre(s) from movie plot summaries on skewed data
