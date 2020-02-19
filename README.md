@@ -15,7 +15,6 @@ Projects
 
 Project | Brief Description
 --- | ---
-
 [Opioid Misuse Risk Tool](https://github.com/sharadv99/capstone-OpioidAddictionRisk) | Developed and productized an interpretable machine learning model that helps doctors determine patients' individual risk of misusing opioids (https://opioidmisuserisk.github.io/)
 [Multi-Label Movie Genre Classification](https://github.com/sharadv99/w266-Multi-Label-Genre-Classification) | Designed custom sampling methods and an ensemble of innovative attention neural networks to predict genre(s) from movie plot summaries on skewed data
 [Click-Through-Rate Prediction](https://github.com/sharadv99/w261-Click-Through-Rate-Prediction) | Created and parallelized a homegrown implementation of logistic regression on a GCP cluster to predict click-through rate on advertising data
